@@ -5,20 +5,19 @@ I found my interest in how people respond and prevent natural disasters, so I fo
 
 ## 2.Data Analytics, visualizations and Interpretation  
 Scatterplot to compare the incident count of flood and wildfire  
-<img width="320" height="190" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/scatterplot.png"/>    
+<img width="315" height="180" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/scatterplot.png"/>    
 
 Boxplot to compare the duration of flood and tornado  
 <img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot.png"/>   
 <img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot2.png"/>   
 
 Correlation Analysis to find correlation between injuries, deaths, and damage    
-<img width="324" height="270" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/corrplot.png"/>   
+<img width="290" height="250" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/corrplot.png"/>   
 
 Regression Analysis to find relation between flood duration and injuries  
-<img width="340" height="200" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/linear%20regression%20.png"/>   
-
+<img width="320" height="180" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/linear%20regression%20.png"/>   
 Hypothesis Test to determine if month/times have an impact on events type  
-<img width="340" height="200" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/Hypothesis%20Test.png"/>   
+<img width="290" height="170" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/Hypothesis%20Test.png"/>   
 
 ## 3.Library
 ggplot2  
