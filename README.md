@@ -5,7 +5,7 @@ I found my interest in how people respond and prevent natural disasters, so I fo
 
 ## 2.Data Analytics, visualizations and Interpretation  
 ### Scatterplot to compare the incident count of flood and wildfire
-![image](http://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/scatterplot.png)
+<img width="320" height="190" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/scatterplot.png"/>
 ### Boxplot to compare the duration of flood and tornado  
 ### Correlation Analysis to find correlation between injuries, deaths, and damage  
 ### Regression Analysis to find relation between flood duration and injuries
