@@ -4,7 +4,8 @@
 I found my interest in how people respond and prevent natural disasters, so I found the related data set on National Centers for Environmental Information website. “NCEI is responsible for hosting and providing access to one of the most significant archives on Earth, with comprehensive oceanic, atmospheric, and geophysical data.” [1] The NCEI is merged by three different data centers in order to provide the public and researchers a more comprehensive database.  
 
 ## 2.Data Analytics, visualizations and Interpretation  
-### Scatterplot to compare the incident count of flood and wildfire  
+### Scatterplot to compare the incident count of flood and wildfire
+![image](http://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/scatterplot.png)
 ### Boxplot to compare the duration of flood and tornado  
 ### Correlation Analysis to find correlation between injuries, deaths, and damage  
 ### Regression Analysis to find relation between flood duration and injuries
