@@ -15,7 +15,7 @@ I found my interest in how people respond and prevent natural disasters, so I fo
 <img width="324" height="270" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/corrplot.png"/> 
 
 ### Regression Analysis to find relation between flood duration and injuries
-<img width="425" height="250" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/Hypothesis%20Test.png"/> 
+<img width="340" height="200" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/Hypothesis%20Test.png"/> 
 
 ### Hypothesis Test to determine if month/times have an impact on events type
 
