@@ -8,8 +8,7 @@ Scatterplot to compare the incident count of flood and wildfire
 <img width="315" height="180" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/scatterplot.png"/>    
 
 Boxplot to compare the duration of flood and tornado  
-<img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot.png"/>   
-<img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot2.png"/>   
+<img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot.png"/><img width="225" height="150" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/boxplot2.png"/>   
 
 Correlation Analysis to find correlation between injuries, deaths, and damage    
 <img width="290" height="250" src="https://github.com/hwyu99/NCDC-Storm-Events-Data-Analytics/blob/master/corrplot.png"/>   
