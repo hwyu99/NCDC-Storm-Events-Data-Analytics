@@ -10,6 +10,13 @@ I found my interest in how people respond and prevent natural disasters, so I fo
 ### Regression Analysis to find relation between flood duration and injuries
 ### Hypothesis Test to determine if month/times have an impact on events type
 
+## 3.Library
+ggplot2  
+dplyr  
+RMySQL  
+DBI  
+
+
 ## 4.References
 [1] NOAA Official website, About NOAA. Retrieved from 
 https://www.nodc.noaa.gov/about/  
