@@ -29,4 +29,4 @@ DBI
 https://www.nodc.noaa.gov/about/  
 [2] Data set reference 
 National Centers for Environmental Information, NCDC Storm Events Database, Storm Events Data, (July 2018), Published byNOAA Customer Engagement Branch
-Retrieved from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00510 
+Retrieved from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00510  
